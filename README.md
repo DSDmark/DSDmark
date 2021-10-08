@@ -1,6 +1,11 @@
 ## Bravo, I'm [Sanskar Sahu || DSmark!]👋
 
-<p align="left"> <img src="https://github.com/DSDarkMark" alt="DSmark" /> </p>
+# ________    _________                     __    
+# \______ \  /   _____/ _____ _____ _______|  | __
+#  |    |  \ \_____  \ /     \\__  \\_  __ \  |/ /
+#  |    `   \/        \  Y Y  \/ __ \|  | \/    < 
+# /_______  /_______  /__|_|  (____  /__|  |__|_ \
+#         \/        \/      \/     \/           \/
 
 <a href="https://discord.gg/cm8KvRrJ">
   <img align="left" alt="DSmark" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />
