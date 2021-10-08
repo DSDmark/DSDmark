@@ -1,6 +1,6 @@
-## Hola, I'm [Sanskar Sahu || DSmark!]👋
+## Bravo, I'm [Sanskar Sahu || DSmark!]👋
 
-<p align="left"> <img src="https://github.com/DSDarkMark" alt="DSmark" /> /p>
+<p align="left"> <img src="https://github.com/DSDarkMark" alt="DSmark" /> </p>
 
 <a href="https://discord.gg/cm8KvRrJ">
   <img align="left" alt="DSmark" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />
@@ -39,7 +39,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 <a href="https://github.com/">
- <img align="center" src="https://github.com/DSDarkMark/project_short/blob/master/dsmark.tif" />
+ <img style="text-align:center;max-width:250px;" src="https://github.com/DSDarkMark/project_short/blob/master/dsmarkg.png" />
 </a>
 
 <div align="center">
