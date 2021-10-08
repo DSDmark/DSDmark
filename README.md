@@ -45,7 +45,7 @@ ________    _________                     __    <br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 <a href="https://github.com/">
- <img style="text-align:center;max-width:250px;" src="https://github.com/DSDarkMark/project_short/blob/master/dsmarkg.png" />
+ <img style="text-align:center;max-width:250px;border-radius:10rem;" src="https://github.com/DSDarkMark/project_short/blob/master/dsmarkg.png" />
 </a>
 
 <div align="center">
