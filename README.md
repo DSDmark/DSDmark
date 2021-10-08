@@ -1,5 +1,6 @@
-## Bravo, I'm [Sanskar Sahu || DSmark!]👋
-<div style="font-size:100px;color:#761AC3;"><br>
+## <b style="color:#2E765E;">Bravo,</b>
+## <p style="color:#761AC3;">Hello, I'm [Sanskar Sahu || DSmark!]👋</p>
+<div style="font-size:100px;color:#761AC3;height:50vh;width:100vh;"><br>
 ________    _________                     __    <br>
 \______ \  /   _____/ _____ _____ _______|  | __<br>
  |    |  \ \_____  \ /     \\__  \\_  __ \  |/ /<br>
@@ -7,9 +8,7 @@ ________    _________                     __    <br>
 /_______  /_______  /__|_|  (____  /__|  |__|_ \<br>
         \/        \/      \/     \/           \/<br>
 </div><br>
-
-<a style="color:#761AC3;" href="https://discord.gg/cm8KvRrJ">
-  <img align="left" alt="DSmark" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />
+<a style="color:green" href="https://discord.gg/cm8KvRrJ">
 </a>
 </a>
 <a style="color:#761AC3;" href="https://github.com/DSDarkMark">
