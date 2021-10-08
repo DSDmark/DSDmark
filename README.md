@@ -9,6 +9,7 @@ ________    _________                     __    <br>
         \/        \/      \/     \/           \/<br>
 </div><br>
 <a style="color:green" href="https://discord.gg/cm8KvRrJ">
+  <img align="left" alt="dsmark" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />
 </a>
 </a>
 <a style="color:#761AC3;" href="https://github.com/DSDarkMark">
