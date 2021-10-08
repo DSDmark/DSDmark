@@ -1,27 +1,27 @@
 ## Bravo, I'm [Sanskar Sahu || DSmark!]👋
+<div style="font-size:100px;color:#761AC3;">
+________    _________                     __    
+\______ \  /   _____/ _____ _____ _______|  | __
+ |    |  \ \_____  \ /     \\__  \\_  __ \  |/ /
+ |    `   \/        \  Y Y  \/ __ \|  | \/    < 
+/_______  /_______  /__|_|  (____  /__|  |__|_ \
+        \/        \/      \/     \/           \/
+</div>
 
-________    _________                     __    <br>
-\______ \  /   _____/ _____ _____ _______|  | __<br>
- |    |  \ \_____  \ /     \\__  \\_  __ \  |/ /<br>
- |    `   \/        \  Y Y  \/ __ \|  | \/    < <br>
-/_______  /_______  /__|_|  (____  /__|  |__|_ \<br>
-        \/        \/      \/     \/           \/<br>
-
-
-<a style="color:#8116DA;" href="https://discord.gg/cm8KvRrJ">
+<a style="color:#761AC3;" href="https://discord.gg/cm8KvRrJ">
   <img align="left" alt="DSmark" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />
 </a>
 </a>
-<a style="color:#8116DA;" href="https://github.com/DSDarkMark">
+<a style="color:#761AC3;" href="https://github.com/DSDarkMark">
   <img align="left" alt="dsmark" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a style="color:#8116DA;" href="https://www.fiverr.com/dsmark_/be-your-a-dedicated-personal-program">
+<a style="color:#761AC3;" href="https://www.fiverr.com/dsmark_/be-your-a-dedicated-personal-program">
   <img align="left" alt="dsmark" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/fiverr.svg" />
 </a>
-<a style="color:#8116DA;" href="https://www.instagram.com/dsmark_/">
+<a style="color:#761AC3;" href="https://www.instagram.com/dsmark_/">
   <img align="left" alt="dsmark" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a style="color:#8116DA;" href="https://www.facebook.com/dsdark.mark/">
+<a style="color:#761AC3;" href="https://www.facebook.com/dsdark.mark/">
   <img align="left" alt="dsmark" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br/>
