@@ -1,12 +1,12 @@
 ## Bravo, I'm [Sanskar Sahu || DSmark!]👋
-<div style="font-size:100px;color:#761AC3;">
+<div style="font-size:100px;color:#761AC3;"><br>
 ________    _________                     __    <br>
 \______ \  /   _____/ _____ _____ _______|  | __<br>
  |    |  \ \_____  \ /     \\__  \\_  __ \  |/ /<br>
  |    `   \/        \  Y Y  \/ __ \|  | \/    < <br>
 /_______  /_______  /__|_|  (____  /__|  |__|_ \<br>
         \/        \/      \/     \/           \/<br>
-</div>
+</div><br>
 
 <a style="color:#761AC3;" href="https://discord.gg/cm8KvRrJ">
   <img align="left" alt="DSmark" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />
