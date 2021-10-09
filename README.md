@@ -45,7 +45,7 @@
 <code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/jquery.png"></code>
 <code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/bootstrap.png"></code>
 <code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/reactjs.png"></code><br>  
-<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/nextjs.png"></code>  
+<div><code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/nextjs.png"></code>  
 <code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/nodejs.png"></code>
 <code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/handlebars.png"></code>  
 <code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/php.png"></code>  
@@ -53,7 +53,7 @@
 <code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/mongodb.png"></code>  
 <code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/restfullapi.png"></code>  
 <code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/heroku.png"></code>  
-<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/firebase.png"></code>  
+<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/firebase.png"></code>  </div>
 
 <h3>:mailbox:Touch Me</h3>  
 
