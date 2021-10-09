@@ -43,7 +43,7 @@
 <code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/tree/master/assests/html-css-js.png"></code>
 <code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/tree/master/assests/sass.png"></code>
 <code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/tree/master/assests/jquery.png"></code>
-<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/tree/master/assests/bootstrap.png"></code>
+<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/bootstrap.png"></code>
 <code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/tree/master/assests/reactjs.png"></code>  
 <code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/tree/master/assests/nextjs.png"></code>  
 <code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/tree/master/assests/nodejs.png"></code>
