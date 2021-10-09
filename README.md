@@ -1,7 +1,7 @@
 ## <b style="color:#2E765E;">Bravo,</b>
 ## <p style="color:#761AC3;">Hello, I'm [Sanskar Sahu || DSmark!]👋</p>
 <div style="color:#761AC3;height:50vh;width:100vh;">
- <img align="left" alt="dsmark" height="200px" width="200px" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/wallcome.png">
+ <img align="left" alt="dsmark" height="300px" width="300px" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/wallcome.png">
 </div><br>
 
 <a style="color:green" href="https://discord.gg/cm8KvRrJ">
