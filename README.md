@@ -60,9 +60,9 @@
 <table>
     <td><img src="https://github.com/DSDarkMark/DSDarkMark/tree/master/assests/discord.png" width=16> <a href="https://discord.com/users/387692962043265034"><b>Discord</b></a></td>
     <td><img src="https://github.com/DSDarkMark/DSDarkMark/tree/master/assests/github.png" width=16> <a href="https://lebster.xyz"><b>Github</b></a></td>
-    <td><img src="assets/youtube.png" width=16> <a href="https://www.youtube.com/channel/UCuTYedzx73-ym6FXWSAd8Hg"><b>Facebook</b></a></td>
-    <td><img src="https://github.com/DSDarkMark/DSDarkMark/tree/master/assests/fiverr.png" width=16> <a href="https://github.com/LebsterFace"><b>Fiverr</b></a></td>
-     <td><img src="https://github.com/DSDarkMark/DSDarkMark/tree/master/assests/github.png" width=16> <a href="https://github.com/LebsterFace"><b>Instagram</b></a></td>
+    <td><img src="assets/youtube.png" width=16> <a href="https://www.facebook.com/dsdark.mark/"><b>Facebook</b></a></td>
+    <td><img src="https://github.com/DSDarkMark/DSDarkMark/tree/master/assests/fiverr.png" width=16> <a style="color:#761AC3;" href="https://www.fiverr.com/dsmark_/be-your-a-dedicated-personal-program"><b>Fiverr</b></a></td>
+     <td><img src="https://github.com/DSDarkMark/DSDarkMark/tree/master/assests/github.png" width=16> <a href="https://www.instagram.com/dsmark_/"><b>Instagram</b></a></td>
       <td><img src="https://github.com/DSDarkMark/DSDarkMark/tree/master/assests/github.png" width=16> <a href="https://github.com/LebsterFace"><b>Gmail</b></a></td>
 </table>
 
