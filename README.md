@@ -44,7 +44,7 @@
 <code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/sass.png"></code>
 <code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/jquery.png"></code>
 <code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/bootstrap.png"></code>
-<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/reactjs.png"></code>  
+<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/reactjs.png"></code><br>  
 <code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/nextjs.png"></code>  
 <code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/nodejs.png"></code>
 <code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/handlebars.png"></code>  
@@ -63,7 +63,7 @@
     <td><img src="assets/youtube.png" width=16> <a href="https://www.facebook.com/dsdark.mark/"><b>Facebook</b></a></td>
     <td><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/fiverr.png" width=16> <a style="color:#761AC3;" href="https://www.fiverr.com/dsmark_/be-your-a-dedicated-personal-program"><b>Fiverr</b></a></td>
      <td><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/github.png" width=16> <a href="https://www.instagram.com/dsmark_/"><b>Instagram</b></a></td>
-      <td><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/github.png" width=16> <a href="https://github.com/LebsterFace"><b>Gmail</b></a></td>
+      <td><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/github.png" width=16> <a href="https://github.com/DSDarkMark"><b>Gmail</b></a></td>
 </table>
 
 <a href="https://github.com/">
