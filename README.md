@@ -29,7 +29,7 @@
 	<li><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/chromium.png" width=16> chromium is best then chrome</li>
 	<li><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/gimp.png" width=16> <a href="https://getpaint.net">
 	 Gimp</a> for image manipulation</li>
-	<li><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/popos.png" width=16>linux <i> for best for web and base so,</i> Pops Os by (System76)</li>
+	<li><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/popos.png" width=16> linux <i> for best for web and base so,</i> Pops Os by (System76)</li>
 </ul>
 
 - 🌱 I’m currently learning more about reactjs(nextjs).
