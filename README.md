@@ -59,7 +59,7 @@
 
 <table>
     <td><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/discord.png" width=16> <a href="https://discord.com/users/387692962043265034"><b>Discord</b></a></td>
-    <td><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/github.png" width=16> <a href="https://lebster.xyz"><b>Github</b></a></td>
+    <td><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/github.png" width=16> <a href="https://github.com/DSDarkMark"><b>Github</b></a></td>
     <td><img src="assets/youtube.png" width=16> <a href="https://www.facebook.com/dsdark.mark/"><b>Facebook</b></a></td>
     <td><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/fiverr.png" width=16> <a style="color:#761AC3;" href="https://www.fiverr.com/dsmark_/be-your-a-dedicated-personal-program"><b>Fiverr</b></a></td>
      <td><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/github.png" width=16> <a href="https://www.instagram.com/dsmark_/"><b>Instagram</b></a></td>
