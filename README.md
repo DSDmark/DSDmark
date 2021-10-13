@@ -72,8 +72,8 @@
 </a>
 
 <div align="center">
+<p class="animate__animated animate__flip animate__bounce animate__infinite animate__delay-2s animate__slow">### Show some ❤️ by starring some of the repositories!</p>
 
-### Show some ❤️ by starring some of the repositories!
 
 </div>
 
