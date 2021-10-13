@@ -1,3 +1,4 @@
+## <b style="color:#2E765E;">Bravo,</b>
 ## <p style="color:#761AC3;">Hello, I'm [Sanskar Sahu || DSmark!]👋</p>
 <div style="color:#761AC3;height:50vh;width:100vh;">
 
@@ -71,7 +72,8 @@
 </a>
 
 <div align="center">
-### Show some ❤️ by starring some of the repositories!</p>
-</div>
 
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 
