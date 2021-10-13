@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
+</head>
+<body>
 ## <b style="color:#2E765E;">Bravo,</b>
 ## <p style="color:#761AC3;">Hello, I'm [Sanskar Sahu || DSmark!]👋</p>
 <div style="color:#761AC3;height:50vh;width:100vh;">
@@ -73,7 +82,9 @@
 
 <div align="center">
 <p class="animate__animated animate__flip animate__bounce animate__infinite animate__delay-2s animate__slow">### Show some ❤️ by starring some of the repositories!</p>
-
-
 </div>
+
+</body>
+</html>
+
 
