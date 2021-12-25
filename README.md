@@ -73,7 +73,7 @@
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+###  Youth is a lie. It is nothing but evil.Those who rejoice in youth deceive themselves and those around them,accepting in full the circumstances that devour them.In the face of the word "youth,",they will twist any common interpretation or accepted notion out of recognition.In their minds, lies, secrets, sins, and failure are nothing more than the spice of youth.If failure is truly the proof of one's youth... Then is there not something abnormal about But I am sure none of them would admit to this.It is all a double standard.My conclusion is this:All you fools who delight in youth... is Drop dead.
 
 </div>
 
