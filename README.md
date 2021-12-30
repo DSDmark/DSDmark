@@ -41,36 +41,32 @@
 
 <h3>Languages and Tools:</h3>
 
-<img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/front-end.png" width=16>
+<img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/front-end.png" width=50>  **Frontend Technologies:**  
 
-**Frontend Technologies:**  
-
-<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/html-css-js.png"></code><br>
-<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/sass.png"></code><br>
-<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/jquery.png"></code><br>
-<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/bootstrap.png"></code><br>
+<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/html-css-js.png"></code>
+<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/sass.png"></code>
+<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/jquery.png"></code>
+<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/bootstrap.png"></code>
 
 
-<img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/backend.png" width=16>
+<img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/backend.png" width=50>   **Backend Technologies:**  
 
-**Backend Technologies:**  
-
-<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/reactjs.png"></code><br>  
-<div><code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/nextjs.png"></code>  <br>
-<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/nodejs.png"></code><br>
-<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/handlebars.png"></code>  <br>
-<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/php.png"></code>  <br>
+<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/reactjs.png"></code>  
+<div><code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/nextjs.png"></code>  
+<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/nodejs.png"></code>
+<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/handlebars.png"></code>  
+<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/php.png"></code>  
 
 
-<img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/db.png" width=16>
+<img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/db.png" width=50>   **Database Technologies:**  
 
-**Database Technologies:**  
 
-<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/sql.png"></code>  <br>
-<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/mongodb.png"></code>  <br>
-<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/restfullapi.png"></code>  <br>
-<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/heroku.png"></code>  <br>
-<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/firebase.png"></code><br>  </div>
+
+<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/sql.png"></code>  
+<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/mongodb.png"></code>  
+<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/restfullapi.png"></code>  
+<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/heroku.png"></code>  
+<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/firebase.png"></code>  </div>
 
 <h3>:mailbox:Touch Me</h3>  
 
