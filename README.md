@@ -58,7 +58,7 @@
 <code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/php.png"></code>  
 
 
-  **Database Technologies:**   <img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/db.png" width=20> 
+  **Database Technologies:**   <img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/db.png" width=25> 
 
 
 
