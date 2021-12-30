@@ -15,10 +15,10 @@
   <img align="left" alt="dsmark" width="22px" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/fiverr.png" />
 </a>
 <a style="color:#761AC3;" href="https://www.instagram.com/dsmark_/">
-  <img align="left" alt="dsmark" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="dsmark" width="22px" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/instagram.png" />
 </a>
 <a style="color:#761AC3;" href="https://www.facebook.com/dsdark.mark/">
-  <img align="left" alt="dsmark" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="dsmark" width="22px" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/facebook.png" />
 </a>
 <br/>
 <br/>
@@ -39,31 +39,47 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost to watch anime.
 
-**Languages and Tools:**  
+<h3>Languages and Tools:</h3>
 
-<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/html-css-js.png"></code>
-<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/sass.png"></code>
-<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/jquery.png"></code>
-<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/bootstrap.png"></code>
+<img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/front-end.png" width=16>
+
+**Frontend Technologies:**  
+
+<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/html-css-js.png"></code><br>
+<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/sass.png"></code><br>
+<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/jquery.png"></code><br>
+<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/bootstrap.png"></code><br>
+
+
+<img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/backend.png" width=16>
+
+**Backend Technologies:**  
+
 <code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/reactjs.png"></code><br>  
-<div><code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/nextjs.png"></code>  
-<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/nodejs.png"></code>
-<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/handlebars.png"></code>  
-<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/php.png"></code>  
-<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/sql.png"></code>  
-<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/mongodb.png"></code>  
-<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/restfullapi.png"></code>  
-<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/heroku.png"></code>  
-<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/firebase.png"></code>  </div>
+<div><code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/nextjs.png"></code>  <br>
+<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/nodejs.png"></code><br>
+<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/handlebars.png"></code>  <br>
+<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/php.png"></code>  <br>
+
+
+<img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/db.png" width=16>
+
+**Database Technologies:**  
+
+<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/sql.png"></code>  <br>
+<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/mongodb.png"></code>  <br>
+<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/restfullapi.png"></code>  <br>
+<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/heroku.png"></code>  <br>
+<code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/firebase.png"></code><br>  </div>
 
 <h3>:mailbox:Touch Me</h3>  
 
 <table>
     <td><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/discord.png" width=16> <a href="https://discord.com/users/387692962043265034"><b>Discord</b></a></td>
     <td><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/github.png" width=16> <a href="https://github.com/DSDarkMark"><b>Github</b></a></td>
-    <td><img src="assets/youtube.png" width=16> <a href="https://www.facebook.com/dsdark.mark/"><b>Facebook</b></a></td>
+    <td><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/facebook.png" width=16> <a href="https://www.facebook.com/dsdark.mark/"><b>Facebook</b></a></td>
     <td><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/fiverr.png" width=16> <a style="color:#761AC3;" href="https://www.fiverr.com/dsmark_/be-your-a-dedicated-personal-program"><b>Fiverr</b></a></td>
-     <td><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/github.png" width=16> <a href="https://www.instagram.com/dsmark_/"><b>Instagram</b></a></td>
+     <td><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/instagram.png" width=16> <a href="https://www.instagram.com/dsmark_/"><b>Instagram</b></a></td>
       <td><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/github.png" width=16> <a href="https://github.com/DSDarkMark"><b>Gmail</b></a></td>
 </table>
 
