@@ -41,7 +41,7 @@
 
 <h3>Languages and Tools:</h3>
 
-<img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/front-end.png" width=50>  **Frontend Technologies:**  
+ **Frontend Technologies:**  <img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/front-end.png" width=50> 
 
 <code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/html-css-js.png"></code>
 <code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/sass.png"></code>
@@ -49,7 +49,7 @@
 <code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/bootstrap.png"></code>
 
 
-<img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/backend.png" width=50>   **Backend Technologies:**  
+**Backend Technologies:**   <img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/backend.png" width=50>   
 
 <code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/reactjs.png"></code>  
 <div><code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/nextjs.png"></code>  
@@ -58,7 +58,7 @@
 <code><img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/php.png"></code>  
 
 
-<img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/db.png" width=50>   **Database Technologies:**  
+  **Database Technologies:**   <img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/db.png" width=20> 
 
 
 
