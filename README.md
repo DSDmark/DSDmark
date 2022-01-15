@@ -83,7 +83,7 @@
  <img style="text-align:center;max-width:250px;border-radius:10rem;" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/profile.png" />
 </a>
 
-<img src="https://giphy.com/gifs/producthunt-cat-developer-xUPGcEliCc7bETyfO8" width="480" height="319"></img>
+<img src="https://tenor.com/view/gimme-code-gimme-code-cat-tapping-gif-15479445" width="480" height="319"></img>
 
 <div align="center">
 
