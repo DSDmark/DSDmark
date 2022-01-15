@@ -1,4 +1,4 @@
-<img src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" height="50" width="70" style="border-radius:50%"></img>
+<img src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" height="50" width="70"></img>
 ## <b style="color:#2E765E;">Bravo,
 ## <p style="color:#761AC3;">Hello, I'm [Sanskar Sahu || DSmark!]👋</p>
 <div style="color:#761AC3;height:50vh;width:100vh;">
