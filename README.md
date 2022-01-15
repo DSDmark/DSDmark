@@ -3,7 +3,7 @@
 ## <p style="color:#761AC3;">Hello, I'm [Sanskar Sahu || DSmark!]👋</p>
 <div style="color:#761AC3;height:50vh;width:100vh;">
 
- <img align="right" alt="dsmark" height="300px" width="300px" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/wallcome.png">
+ <img align="right" alt="dsmark" height="300px" width="300px" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 </div><br>
 
 <a style="color:green" href="https://discord.gg/cm8KvRrJ">
