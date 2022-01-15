@@ -20,8 +20,8 @@
 </a>
 <a style="color:#761AC3;" href="https://www.facebook.com/dsdark.mark/">
   <img align="left" alt="dsmark" width="22px" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/facebook.png" />
-</a>
 	<img src="https://c.tenor.com/krAuys364mkAAAAi/ghost-phanton.gif" height="50" width="70"></img>
+</a>
 <br/>
 <br/>
 
