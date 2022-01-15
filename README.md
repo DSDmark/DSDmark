@@ -82,8 +82,7 @@
 <a href="https://github.com/">
  <img style="text-align:center;max-width:250px;border-radius:10rem;" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/profile.png" />
 </a>
-
-<div class="tenor-gif-embed" data-postid="15479445" data-share-method="host" data-aspect-ratio="0.9875" data-width="100%"><a href="https://tenor.com/view/gimme-code-gimme-code-cat-tapping-gif-15479445">Gimme Code Cat GIF</a>from <a href="https://tenor.com/search/gimme+code-gifs">Gimme Code GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://c.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif"></img>
 
 <div align="center">
 
