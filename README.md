@@ -1,4 +1,4 @@
-## <b style="color:#2E765E;">Bravo,</b>
+## <b style="color:#2E765E;">Bravo,</b> <img src="https://c.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif" heigth="30px" width="30px" style="border-radius:50%;"></img>
 ## <p style="color:#761AC3;">Hello, I'm [Sanskar Sahu || DSmark!]👋</p>
 <div style="color:#761AC3;height:50vh;width:100vh;">
 
@@ -82,7 +82,6 @@
 <a href="https://github.com/">
  <img style="text-align:center;max-width:250px;border-radius:10rem;" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/profile.png" />
 </a>
-<img src="https://c.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif"></img>
 
 <div align="center">
 
