@@ -83,7 +83,7 @@
  <img style="text-align:center;max-width:250px;border-radius:10rem;" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/profile.png" />
 </a>
 
-<iframe src="https://giphy.com/embed/pCfLkFUX6bpeg" width="480" height="319" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bay-difficulty-pCfLkFUX6bpeg">via GIPHY</a></p>
+<img src="https://giphy.com/embed/pCfLkFUX6bpeg" width="480" height="319" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/bay-difficulty-pCfLkFUX6bpeg">via GIPHY</a></p>
 
 <div align="center">
 
