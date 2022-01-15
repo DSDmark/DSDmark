@@ -24,7 +24,7 @@
 <br/>
 <br/>
 
-<h3>:computer: Programs && Tools</h3> 	<img src="https://c.tenor.com/krAuys364mkAAAAi/ghost-phanton.gif" height="50" width="70"></img>
+<h3>:computer: Programs && Tools</h3> 
 <ul>
 	<li><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/vscode.png" width=16> in 2021 Vscode is the Best editor for web</li>
 	<li><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/chromium.png" width=16> chromium is best then chrome</li>
@@ -78,6 +78,7 @@
     <td><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/fiverr.png" width=16> <a style="color:#761AC3;" href="https://www.fiverr.com/dsmark_/be-your-a-dedicated-personal-program"><b>Fiverr</b></a></td>
      <td><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/instagram.png" width=16> <a href="https://www.instagram.com/dsmark_/"><b>Instagram</b></a></td>
       <td><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/github.png" width=16> <a href="https://github.com/DSDarkMark"><b>Gmail</b></a></td>
+		<img src="https://c.tenor.com/krAuys364mkAAAAi/ghost-phanton.gif" height="50" width="70"></img>
 </table>
 
 <a href="https://github.com/">
