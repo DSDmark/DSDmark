@@ -38,7 +38,7 @@
 - 🤔 I’m looking for help with Nextjs documentation.
 - 💬 Ask me about web Development or any tech-related stuff.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost to watch anime.
+- ⚡ Fun fact: I spend almost time to watch anime.
 
 <h3>Languages and Tools:</h3>
 
@@ -87,7 +87,12 @@
 
 <div align="center">
 
-###  Youth is a lie. It is nothing but evil.Those who rejoice in youth deceive themselves and those around them,accepting in full the circumstances that devour them.In the face of the word "youth,",they will twist any common interpretation or accepted notion out of recognition.In their minds, lies, secrets, sins, and failure are nothing more than the spice of youth.If failure is truly the proof of one's youth... Then is there not something abnormal about But I am sure none of them would admit to this.It is all a double standard.My conclusion is this:All you fools who delight in youth... is Drop dead.
-
+	<div align="center"> ### Youth is a lie. It is nothing but evil. </div>
+Those who rejoice in youth deceive themselves and those around them, accepting in full the circumstances that devour them.
+	In the face of the word "youth,", they will twist any common interpretation or accepted notion out of recognition.In their minds, lies, secrets, sins, and failure are nothing more than the spice of youth.
+	If failure is truly the proof of one's youth...
+	Then is there not something abnormal about But I am sure none of them would admit to this.It is all a double standard.
+	My conclusion is this:All you fools who delight in youth...
+	is Drop dead.
 </div>
 
