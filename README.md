@@ -86,7 +86,7 @@
 </a>
 
 <div>
-###Youth is a lie. It is nothing but evil. </br>
+## Youth is a lie. It is nothing but evil. </br>
 Those who rejoice in youth deceive themselves and those around them, accepting in full the circumstances that devour them.</br>
 	In the face of the word "youth,", they will twist any common interpretation or accepted notion out of recognition.In their minds, lies, secrets, sins, and failure are nothing more than the spice of youth.</br>
 	If failure is truly the proof of one's youth...</br>
