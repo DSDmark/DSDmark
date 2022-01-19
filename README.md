@@ -85,13 +85,13 @@
  <img style="text-align:center;max-width:250px;border-radius:10rem;" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/profile.png" />
 </a>
 
-<div align="center">
-### <div align="center"> Youth is a lie. It is nothing but evil. </div>
-Those who rejoice in youth deceive themselves and those around them, accepting in full the circumstances that devour them.
-	In the face of the word "youth,", they will twist any common interpretation or accepted notion out of recognition.In their minds, lies, secrets, sins, and failure are nothing more than the spice of youth.
-	If failure is truly the proof of one's youth...
-	Then is there not something abnormal about But I am sure none of them would admit to this.It is all a double standard.
-	My conclusion is this:All you fools who delight in youth...
-	is Drop dead.
+<div>
+###Youth is a lie. It is nothing but evil. </br>
+Those who rejoice in youth deceive themselves and those around them, accepting in full the circumstances that devour them.</br>
+	In the face of the word "youth,", they will twist any common interpretation or accepted notion out of recognition.In their minds, lies, secrets, sins, and failure are nothing more than the spice of youth.</br>
+	If failure is truly the proof of one's youth...</br>
+	Then is there not something abnormal about But I am sure none of them would admit to this.It is all a double standard.</br>
+	My conclusion is this:All you fools who delight in youth...</br>
+	be Drop dead.</br>
 </div>
 
