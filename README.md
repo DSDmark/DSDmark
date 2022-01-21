@@ -1,4 +1,4 @@
-- - - # !Bravo,
+- - - # !Bravo,  <img alt="dsmark" height="50px" width="70px" src="https://i.gifer.com/3nR6.gif"></img>
 
 ---
 
@@ -14,7 +14,9 @@
 
 ---
 
-## Computer : Programs && Tools ʕ •́؈•̀ ₎
+## Computer : Programs && Tools <img alt="Hola" height="70px" width="70px" src="https://i.gifer.com/3Mfb.gif"></img>
+
+ <img alt="dsmark" align="right" height="600px" width="300px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
 
 - <img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/vscode.png"     width=16> in 2021 Vscode is the Best editor for web
 - <img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/chromium.png" width=16> chromium is best then chrome
@@ -62,8 +64,8 @@
 
 > #### 😈 Youth is a lie. It is nothing but evil.
 
-Those who rejoice in youth deceive themselves and those around them, accepting in full the circumstances that devour them.
-
+Those who rejoice in youth deceive themselves and those around them, accepting in full the circumstances that devour them. 
+ʕ •́؈•̀ ₎
 In the face of the word **Youth,** they will twist any common interpretation or accepted notion out of recognition.
 
 In their minds, lies, secrets, sins, and failure are nothing more than the spice of youth.
