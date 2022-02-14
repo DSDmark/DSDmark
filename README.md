@@ -14,7 +14,7 @@
 
 ---
 
-## Computer : Programs && Tools <img alt="Hola" height="70px" width="70px" src="https://i.gifer.com/37G7.gif">
+## Computer : Programs && Tools <img alt="Hola" height="70px" width="70px" src="https://imgur.com/U6cqNL4">
 
  <img alt="dsmark" align="right" height="600px" width="300px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
 
