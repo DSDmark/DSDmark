@@ -1,27 +1,19 @@
-- - - # !Bravo,  <img alt="dsmark" height="50px" width="70px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img>
-
+# !Bravo,  <img alt="dsmark" height="50px" width="70px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img>
+  <img alt="dsmark" align="right"  height="150px" width="150px" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
+  
+ <img alt="Hola" height="70px" width="70px" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img>
+```mermaid
+flowchart LR
+text1>"Hello I'm [ Sanskar Sahu || DSmark ]" ] 
+```
 ---
-
-<img alt="Hola" height="70px" width="70px" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img>
-
-## `Hello, I'm [Sanskar Sahu || DSmark!]🖕`
-
- <img alt="dsmark" align="right" height="50px" width="70px" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
-
----
-
-> <a style="color:green" href="https://discord.gg/cm8KvRrJ"> <img alt="dsmark" width="22px" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/discord.png" /> </a> <a style="color:#761AC3;" href="https://github.com/DSDarkMark"> <img alt="dsmark" width="22px" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/github.png" /> </a> <a style="color:#761AC3;" href="https://www.fiverr.com/dsmark_/be-your-a-dedicated-personal-program"> <img alt="dsmark" width="22px" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/fiverr.png" /> </a> <a style="color:#761AC3;" href="https://www.instagram.com/dsmark_/"> <img alt="dsmark" width="22px" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/instagram.png" /> </a> <a style="color:#761AC3;" href="https://www.facebook.com/dsdark.mark/"> <img alt="dsmark" width="22px" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/facebook.png" /> </a>
-
----
-
-## Computer : Programs && Tools <img alt="Hola" height="70px" width="70px" src="https://imgur.com/U6cqNL4">
-
+# Computer's Programs & Tools <img alt="Hola" height="70px" width="70px" src="https://i.gifer.com/3Mfb.gif"></img>
  <img alt="dsmark" align="right" height="600px" width="300px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
 
-- <img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/vscode.png"     width=16> in 2021 Vscode is the Best editor for web
-- <img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/chromium.png" width=16> chromium is best then chrome
-- <img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/gimp.png" width=16> <a href="https://getpaint.net">Gimp</a> for image manipulation
-- <img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/popos.png" width=16> linux <i> for best for web and base so,</i> Pops Os by (System76)
+-   Vscode is the Best editor for web
+-  chromium is best then chrome
+-  Gimp for image manipulation
+-  I highly prefer Arch. but, sometimes you can rely on debiun. so, Pops Os by (System76)
 
 - 🌱 I’m currently learning more about reactjs(nextjs).
 - 👯 I’m looking to collaborate on [github](https://github.com/DSDarkMark/project_short "DSmark Project").
@@ -30,43 +22,82 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost time to watch anime.
 
-## Languages And Tools ≧◉ᴥ◉≦
+# Technologies 
 
-## Frontend Technologies: <img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/front-end.png" width=50>
+```mermaid
+flowchart LR
+f1[HTML]
+f2[Css]
+f3[javaScpit]
+f4[Markdown]
+fw1((ReactJs))
+fw2((NextJs))
+fw3((Bootstrap))
+fw4((tailwind))
+fw5((Scss))
+fw6((Mermaid))
+fw7((ThreeJs))
+fw8((Express))
+b1{NodeJs}
+b3{PHP}
+db1[(MongoDB)]
+db2[(MySql)]
+db3[(RestAPIs)]
+ subgraph  DataBase
+db1
+db2
+db3
+ end  
+ subgraph  BackEnd
+b1
+b3
+ end  
+ subgraph Framworks 
+fw1
+fw2
+fw3
+fw4
+fw5
+fw6
+fw7
+fw8
+ end
+  subgraph  FrontEnd 
+ f1
+ f2
+ f3
+ f4
+ end  
+ f1 --o f2
+ f1 --o f3
+ f1 --o f4
+ f2 --> fw3
+ f2 --> fw4
+ f2 --> fw5
+ f3 --o fw1
+ f3 --o fw2
+ f3 ---o fw7
+ b1 --o fw8
+ fw2 --o b1
+ f4 --> fw6
+ db1 --o db3
+ db3 --o db2
+ db1 --> b1
+ db2 --> b3
+ fw1 --> b1
+ ```
 
-<img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/html-css-js.png">  <img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/sass.png"> <img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/jquery.png">  <img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/bootstrap.png">
+# Touch Me  ˊ•⌔•ˋ 
 
-## Backend Technologies: <img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/backend.png" width=50>
-
-<img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/reactjs.png"> <img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/nextjs.png">  <img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/nodejs.png"> <img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/handlebars.png">  <img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/php.png">
-
-## Database Technologies: <img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/db.png" width=25>
-
-<img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/sql.png"> <img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/mongodb.png">  <img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/restfullapi.png">  <img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/heroku.png">  <img height="20" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/firebase.png"> </div>
-
-## MailBox : Touch Me Ꮚˊ•⌔•ˋᏊ
-
-<table>
-    <td><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/discord.png" width=16> <a href="https://discord.com/users/387692962043265034"><b>Discord</b></a></td>
-    <td><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/github.png" width=16> <a href="https://github.com/DSDarkMark"><b>Github</b></a></td>
-    <td><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/facebook.png" width=16> <a href="https://www.facebook.com/dsdark.mark/"><b>Facebook</b></a></td>
-    <td><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/fiverr.png" width=16> <a style="color:#761AC3;" href="https://www.fiverr.com/dsmark_/be-your-a-dedicated-personal-program"><b>Fiverr</b></a></td>
-     <td><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/instagram.png" width=16> <a href="https://www.instagram.com/dsmark_/"><b>Instagram</b></a></td>
-      <td><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/github.png" width=16> <a href="https://github.com/DSDarkMark"><b>Gmail</b></a></td>
-		<img src="https://c.tenor.com/krAuys364mkAAAAi/ghost-phanton.gif" height="50" width="700"></img>
-</table>
-
-<a href="https://github.com/">
- <img style="text-align:center;max-width:250px;border-radius:10rem;" src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/profile.png" />
-</a>
-
+|[Discord](https://discord.gg/xm4DN6JTVt)|[Github](https://github.com/DSDmark/)|[LinkIn]()|[DevToCommunity](https://dev.to/dsmark)|[Gmail](sahup3296@gmail.com)|
+|:-|:-|:-|:-|:--|
 ---
 
-> #### 😈 Youth is a lie. It is nothing but evil.
+> **Youth is a lie. It is nothing but evil.**
 
 Those who rejoice in youth deceive themselves and those around them, accepting in full the circumstances that devour them. 
 ʕ •́؈•̀ ₎
-In the face of the word **Youth,** they will twist any common interpretation or accepted notion out of recognition.
+In the face of the word " **Youth**  ", they will twist any common interpretation or accepted notion out of recognition.
 
 In their minds, lies, secrets, sins, and failure are nothing more than the spice of youth.
 
@@ -77,5 +108,4 @@ Then is there not something abnormal about But I am sure none of them would admi
 My conclusion is this All you fools who delight in youth...
 
 > **Be Drop Dead.**
-
 ---
