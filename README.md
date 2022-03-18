@@ -86,8 +86,6 @@ fw8
  db2 --> b3
  fw1 --> b1
  ```
- 
- ![DSmark](https://media-exp1.licdn.com/dms/image/C4E16AQEF_bGUzZKjOA/profile-displaybackgroundimage-shrink_350_1400/0/1647608955429?e=1652918400&v=beta&t=K7yu3ytfdbeUF-o-IJ_qG1ZVBcNOOHqxJMrmcl7mOR0)
 
 # Touch Me  ˊ•⌔•ˋ 
 
@@ -111,3 +109,4 @@ My conclusion is this All you fools who delight in youth...
 
 > **Be Drop Dead.**
 ---
+![DSmark](https://media-exp1.licdn.com/dms/image/C4E16AQEF_bGUzZKjOA/profile-displaybackgroundimage-shrink_350_1400/0/1647608955429?e=1652918400&v=beta&t=K7yu3ytfdbeUF-o-IJ_qG1ZVBcNOOHqxJMrmcl7mOR0)
