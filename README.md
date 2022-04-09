@@ -1,23 +1,3 @@
-<<<<<<< HEAD
-# !Bravo,  <img alt="dsmark" height="50px" width="70px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img>
-  <img alt="dsmark" align="right"  height="150px" width="150px" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
-  
- <img alt="Hola" height="70px" width="70px" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img>
-```mermaid
-flowchart LR
-text1>"Hello I'm [ Sanskar Sahu || DSmark ]" ] 
-```
----
-# Computer's Programs & Tools <img alt="Hola" height="70px" width="70px" src="https://i.gifer.com/3Mfb.gif"></img>
- <img alt="dsmark" align="right" height="600px" width="300px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
-
--   Vscode is the Best editor for web
--  chromium is best then chrome
--  Gimp for image manipulation
--  I highly prefer Arch. but, sometimes you can rely on debiun. so, Pops Os by (System76)
-
-- 🌱 I’m currently learning more about reactjs(nextjs).
-=======
 # <div align="center"><img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img> !Bravo, <img alt="Hola" height="30px" width="40px" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/ghost_1f47b.png"></img>
 
 </div>
@@ -48,8 +28,8 @@ text1>"Hello I'm [ Sanskar Sahu || DSmark ]" ]
 
 
  <div align="center">
-<img alt="Hola" height="70px" width="60px" src="https://i.gifer.com/3Mfb.gif"></img>
-<b>Languages and Tools: <img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
+<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
+ <b> Languages and Tools:<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
 <br /><code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/backbonejs/backbonejs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
@@ -62,6 +42,7 @@ text1>"Hello I'm [ Sanskar Sahu || DSmark ]" ]
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/gruntjs/gruntjs-ar21.svg"></code>
 <br />
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/parceljs/parceljs-ar21.svg"></code>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
   <br>
@@ -85,26 +66,16 @@ flowchart TB
 - <img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/popos.png" width=16> linux I highly prefer Arch. but, sometimes you can rely on debiun. so, **PopsOs** by (System76)
 
 - 🌱 I’m currently learning more about **Reactjs(Nextjs)**.
->>>>>>> 6c9e8609102b1aa2d987e021548a5ea4dbce8ce4
 - 👯 I’m looking to collaborate on [github](https://github.com/DSDarkMark/project_short "DSmark Project").
 - 🤔 I’m looking for help with Nextjs documentation.
 - 💬 Ask me about web Development or any tech-related stuff.
 - 😄 Pronouns: He/His
-<<<<<<< HEAD
-- ⚡ Fun fact: I spend almost time to watch anime.
-
-# Technologies 
-
-```mermaid
-flowchart LR
-=======
 - ⚡ Fun fact: I spend almost time to watch **anime**.
 
 ## Technologies 
 
 ```mermaid
 flowchart 
->>>>>>> 6c9e8609102b1aa2d987e021548a5ea4dbce8ce4
 f1[HTML]
 f2[Css]
 f3[javaScpit]
@@ -114,23 +85,6 @@ fw2((NextJs))
 fw3((Bootstrap))
 fw4((tailwind))
 fw5((Scss))
-<<<<<<< HEAD
-fw6((Mermaid))
-fw7((ThreeJs))
-fw8((Express))
-b1{NodeJs}
-b3{PHP}
-db1[(MongoDB)]
-db2[(MySql)]
-db3[(RestAPIs)]
- subgraph  DataBase
-db1
-db2
-db3
- end  
- subgraph  BackEnd
-b1
-=======
 fw6((mermaid))
 b1{NodeJs}
 b2{RestAPIs}
@@ -138,7 +92,6 @@ b3{PHP}
  subgraph  BackEnd
 b1
 b2
->>>>>>> 6c9e8609102b1aa2d987e021548a5ea4dbce8ce4
 b3
  end  
  subgraph Framworks 
@@ -148,11 +101,6 @@ fw3
 fw4
 fw5
 fw6
-<<<<<<< HEAD
-fw7
-fw8
-=======
->>>>>>> 6c9e8609102b1aa2d987e021548a5ea4dbce8ce4
  end
   subgraph  FrontEnd 
  f1
@@ -168,27 +116,12 @@ fw8
  f2 --> fw5
  f3 --o fw1
  f3 --o fw2
-<<<<<<< HEAD
- f3 ---o fw7
- b1 --o fw8
- fw2 --o b1
- f4 --> fw6
- db1 --o db3
- db3 --o db2
- db1 --> b1
- db2 --> b3
- fw1 --> b1
- ```
-
-# Touch Me  ˊ•⌔•ˋ 
-=======
  fw2 --o b1
  f4 --> fw6
  b1 --o b2
  ```
 
 ## Touch Me  ˊ•⌔•ˋ 
->>>>>>> 6c9e8609102b1aa2d987e021548a5ea4dbce8ce4
 
 |[Discord](https://discord.gg/xm4DN6JTVt)|[Github](https://github.com/DSDmark/)|[LinkIn]()|[DevToCommunity](https://dev.to/dsmark)|[Gmail](sahup3296@gmail.com)|
 |:-|:-|:-|:-|:--|
@@ -209,13 +142,10 @@ Then is there not something abnormal about But I am sure none of them would admi
 My conclusion is this All you fools who delight in youth...
 
 > **Be Drop Dead.**
-<<<<<<< HEAD
-=======
 
   <p align="center">
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
->>>>>>> 6c9e8609102b1aa2d987e021548a5ea4dbce8ce4
 ---
 
