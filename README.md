@@ -1,17 +1,19 @@
-# <div align="center"><img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img> !Bravo, <img alt="Hola" height="30px" width="40px" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/ghost_1f47b.png"></img>
-
+<div align="center">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#273036" fill-opacity="1" d="M0,160L40,133.3C80,107,160,53,240,37.3C320,21,400,43,480,80C560,117,640,171,720,202.7C800,235,880,245,960,224C1040,203,1120,149,1200,160C1280,171,1360,245,1400,282.7L1440,320L1440,0L1400,0C1360,0,1280,0,1200,0C1120,0,1040,0,960,0C880,0,800,0,720,0C640,0,560,0,480,0C400,0,320,0,240,0C160,0,80,0,40,0L0,0Z"></path></svg><h1><img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img>!Bravo,<img alt="Hola" height="30px" width="40px" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/ghost_1f47b.png"></img></h1>
+<img alt="Hola" align="center" height="50%" width="100%" src="https://lh5.googleusercontent.com/Y97hp9AtEV8o9xxPsJpVaTDia5minIrPuBBdd7pOXZAfn8Z5CQfkV5QZPAxkKva5zSnG5UqXXBzkBI4gcAGs=w1366-h655"></img>
 </div>
 
 
+![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#273036" fill-opacity="1" d="M0,160L40,133.3C80,107,160,53,240,37.3C320,21,400,43,480,80C560,117,640,171,720,202.7C800,235,880,245,960,224C1040,203,1120,149,1200,160C1280,171,1360,245,1400,282.7L1440,320L1440,0L1400,0C1360,0,1280,0,1200,0C1120,0,1040,0,960,0C880,0,800,0,720,0C640,0,560,0,480,0C400,0,320,0,240,0C160,0,80,0,40,0L0,0Z"></path></svg>
 
 <div align="center">
 <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
-<img alt="Hola" align="center" height="50%" width="100%" src="https://see.fontimg.com/api/renderfont4/2O6xe/eyJyIjoiZnMiLCJoIjoyMywidyI6MTAwMCwiZnMiOjIzLCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SGVsbG8gSSdtIFNhbnNrYXIgU2FodSB8fCBEU21hcmsg/organical-personal-use-bold-italic.png"></img><br>
-<img height="80px" align="center" width="80" alt="Hola" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/au-kddi/190/flushed-face_1f633.png"></img>
+<img height="80px" aligni="center" width="80" alt="Hola" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/au-kddi/190/flushed-face_1f633.png"></img>
 </div>
  <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Hello%20 I%27m%20%5BSanskar%20Sahu%20%7C%7C%20DSmark%5D;A+Programmer;Web+Developer+%26%26%20+Web+Designer;Gamer%20%26%26%20Developer;DS%20|%20Algorithms%20|%20OOP%20;&center=true&width=500&height=50">
-</p>
+
  
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
                   
@@ -148,4 +150,6 @@ My conclusion is this All you fools who delight in youth...
 </p>
 
 ---
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#273036" fill-opacity="1" d="M0,96L30,112C60,128,120,160,180,192C240,224,300,256,360,250.7C420,245,480,203,540,170.7C600,139,660,117,720,128C780,139,840,181,900,208C960,235,1020,245,1080,245.3C1140,245,1200,235,1260,213.3C1320,192,1380,160,1410,144L1440,128L1440,320L1410,320C1380,320,1320,320,1260,320C1200,320,1140,320,1080,320C1020,320,960,320,900,320C840,320,780,320,720,320C660,320,600,320,540,320C480,320,420,320,360,320C300,320,240,320,180,320C120,320,60,320,30,320L0,320Z"></path></svg>
 
