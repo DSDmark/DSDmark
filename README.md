@@ -1,6 +1,6 @@
 <div align="center">
   <img alt="dsmark"  src="assets/top.png"></img>
-  <h1><img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img>!Bravo,<img alt="Hola" height="30px" width="40px" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/ghost_1f47b.png"></img></h1><hr>
+  <h1><img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img>!Bravo,<img alt="Hola" height="30px" width="40px" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/ghost_1f47b.png"></img></h1>
 <img alt="Hola" align="center" height="50%" width="100%" src="assets/banner.png"></img>
 </div>
 
