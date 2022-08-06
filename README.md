@@ -115,7 +115,7 @@ My conclusion is this All you fools who delight in youth...
 > **Be Drop Dead.**
 
   <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/DSDmark/blob/output/github-contribution-grid-snake.gif" alt="snake">
+  <img src="https://github.com/DSDmark/DSDmark/blob/output/github-contribution-grid-snake.gif" alt="snake">
 </p>
 
 
