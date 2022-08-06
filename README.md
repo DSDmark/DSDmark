@@ -116,6 +116,8 @@ My conclusion is this All you fools who delight in youth...
 
   <p align="center">
   <img src="https://github.com/DSDmark/DSDmark/blob/output/github-contribution-grid-snake.gif" alt="snake">
+  ![GitHub Snake Light](https://github.com/DSDmark/DSDmark/blob/output/github-contribution-grid-snake.gif#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/DSDmark/DSDmark/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 </p>
 
 
