@@ -118,4 +118,8 @@ My conclusion is this All you fools who delight in youth...
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v2.0.0-rc.2
+
+
 ---
