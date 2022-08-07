@@ -1,6 +1,14 @@
 <div align="center">
   <img alt="dsmark"  src="assets/top.png"></img>
-  <h1><img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img>!Bravo,<img alt="Hola" height="30px" width="40px" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/ghost_1f47b.png"></img></h1>
+  <h1><img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img>
+  <br clear="both">
+<h1 align="center">!Bravo,</h1>
+
+<h2 align="center">HELLO I'M SANSKAR SAHU</h2>
+
+###
+  
+  <img alt="Hola" height="30px" width="40px" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/ghost_1f47b.png"></img></h1>
 <img alt="Hola" align="center" height="50%" width="100%" src="assets/banner.png"></img>
 </div>
 
@@ -10,68 +18,96 @@
 
 <div align="center">
  
-<h3><img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img> Computer<img height="80px" aligni="center" width="80" alt="Hola" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/au-kddi/190/flushed-face_1f633.png"></img> Programs && Tools<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif"></h1>
+<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
 
-### 👉 Technologies
-
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Postman" src="http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white"></a>
-     &emsp;
-    <a href="#"><img alt="Postman" src="http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black"></a>
-     &emsp;
-    <a href="#"><img alt="Postman" src="http://img.shields.io/badge/-Markdown-white?style=flat-square&logo=markdown&logoColor=black"></a>
-     &emsp;
-    <a href="#"><img alt="Postman" src="http://img.shields.io/badge/-Python-346e9e?style=flat-square&logo=python&logoColor=white"></a>
-     &emsp;
-    <a href="#"><img alt="Postman" src="http://img.shields.io/badge/-Scala-dd3734?style=flat-square&logo=scala&logoColor=white"></a>
-     &emsp;
-    <a href="#"><img alt="Postman" src="http://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
-     &emsp;
-    <a href="#"><img alt="Postman" src="http://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white"></a>
-     &emsp;
-    <a href="#"><img alt="Postman" src="http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white"></a>
-     &emsp;
-    <a href="#"><img alt="Postman" src="http://img.shields.io/badge/-Npm-white?style=flat-square&logo=npm&logoColor=white"></a>
-     &emsp;
-     </p>
-
-### 👉 Databases & Cloud Hosting
-
-<p align="center">
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  &emsp;
-<a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
-  &emsp;
-<a href="https://firebase.google.com/"><img alt="Firebase" src ="http://img.shields.io/badge/-MongoDb-white?style=flat-square&logo=mongodb"></a>
- </p>
-
-### 👉 Software & Tools
-
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-&emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
-     &emsp;
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
-     &emsp;
-</p>
+<h2 align="center">Technologies & Tools</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true&username=DSDmark " height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=highcontrast&hide_border=true&username=DSDmark " height="151" alt="languages graph"  />
 </div>
 
+
+</div>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="59" width="72" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="59" width="72" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="59" width="72" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="59" width="72" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="59" width="72" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="59" width="72" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="59" width="72" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="59" width="72" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="59" width="72" alt="googlecloud logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="59" width="72" alt="gcc logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="59" width="72" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" height="59" width="72" alt="devicon logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" height="59" width="72" alt="codepen logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="59" width="72" alt="chrome logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="59" width="72" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="59" width="72" alt="apache logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="59" width="72" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="59" width="72" alt="sqlalchemy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="59" width="72" alt="heroku logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="59" width="72" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="59" width="72" alt="firefox logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="59" width="72" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="59" width="72" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="59" width="72" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="59" width="72" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="59" width="72" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="59" width="72" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="59" width="72" alt="markdown logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="59" width="72" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="59" width="72" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="59" width="72" alt="threejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="59" width="72" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="59" width="72" alt="git logo"  />
+</div>
+
+
+<div align="center">
+<img alt="Hola" height="100px" width="100px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif">
+</div>
+
+###
+
+<br clear="both">
+
+<h1 align="center">Touch Me ˊ•⌔•ˋ</h1>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://dev.to/dsmark" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="devto logo"  />
+  </a>
+  <a href="sahup3296@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="gmail logo"  />
+  </a>
+  <a href="https://codepen.io/DSmark" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="codepen logo"  />
+  </a>
+  <a href="https://discord.com/invite/xm4DN6JTVt" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="discord logo"  />
+  </a>
+  <a href="8962529063" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/sanskar-sahu-362320232/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="linkedin logo"  />
+  </a>
+  <a href="https://codesandbox.io/u/DSDarkMark" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="37" alt="codesandbox logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/16517581/sanskar-sahu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="stackoverflow logo"  />
+  </a>
+</div>
+
+###
 ---
 
 <img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
@@ -87,12 +123,6 @@
 - 💬 Ask me about web Development or any tech-related stuff.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost time to watch **anime**.
-
-
-## Touch Me ˊ•⌔•ˋ
-
-| [Discord](https://discord.gg/xm4DN6JTVt) | [Github](https://github.com/DSDmark/) | [LinkIn]() | [DevToCommunity](https://dev.to/dsmark) | [Gmail](sahup3296@gmail.com) |
-| :--------------------------------------- | :------------------------------------ | :--------- | :-------------------------------------- | :--------------------------- |
 
 ---
 
