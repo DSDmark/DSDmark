@@ -16,7 +16,7 @@ I am a computer science student having more than 4 years of experience in progra
 </p>
 
 <p align="left">
-Available for :
+🔵 Available for :
 <strong>Team projects, particularly open-source and is MERN stack</strong>.
 </p>
 
