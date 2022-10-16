@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-🇮🇳Indian full-stack developer who is exploring the world of <strong>Typescript.</strong><br>
+🇮🇳Indian full-stack developer who is exploring the world of <strong>Typescript.</strong>
 I am a computer science student having more than 4 years of experience in programming languages.
 </p>
 
