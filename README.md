@@ -1,8 +1,6 @@
 <div align="Center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue+&size=30&duration=10&pause=9&color=9831F7&background=00FF1F00&center=true&vCenter=true&width=435&lines=%3D%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A5%87%E0%A4%A8+%E0%A4%B9%E0%A4%BF+%E0%A4%B8%E0%A4%BF%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A3%E0%A4%BF+%E0%A4%A8+%E0%A4%AE%E0%A4%A8%E0%A5%8B%E0%A4%B0%E0%A4%A5%E0%A5%88%E0%A4%83%E0%A5%A4)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue+&size=30&duration=10&pause=9&color=9831F7&background=00FF1F00&center=true&vCenter=true&width=435&lines=+%E0%A4%A8+%E0%A4%B9%E0%A4%BF+%E0%A4%B8%E0%A5%81%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%B8%E0%A5%8D%E0%A4%AF+%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9%E0%A4%B8%E0%A5%8D%E0%A4%AF+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF+%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%87+%E0%A4%AE%E0%A5%83%E0%A4%97%E0%A4%BE%3A%E0%A5%A4%E0%A5%A4)](https://git.io/typing-svg)
+उद्यमेन हि सिध्यन्ति कार्याणि न मनोरथैः। न हि सुप्तस्य सिंहस्य प्रविशन्ति मुखे मृगा:।।
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
