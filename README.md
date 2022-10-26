@@ -23,7 +23,6 @@ I am a computer science student having more than 4 years of experience in progra
 <strong>Team projects, particularly open-source and is MERN stack</strong>.
 </p>
 
-
 <div align="left">
 
 [![user:16517581's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/16517581?theme=monokai&website=true&location=true)](https://github.com/johannchopin/stackoverflow-readme-profile)
