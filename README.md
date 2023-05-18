@@ -23,12 +23,17 @@ Indian full-stack developer understanding more about TS system. I've been using 
 <strong>Team projects, particularly open-source and is MERN stack</strong>.
 </p>
 
+  <p align="left">
+🔵 Artical which is recommmanded for read:
+  <a href="http://visualfractions.com/calculator/modulo/what-is-2-mod-10/">What is 2 mod 10?</a>
+</p>
+ 
 <div align="left">
 
 [![user:16517581's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/16517581?theme=monokai&website=true&location=true)](https://github.com/johannchopin/stackoverflow-readme-profile)
 
 </div>
-
+ 
 <p align="left">
 
   <a href="#" alt="Gmail">
