@@ -20,7 +20,7 @@ jobs:
          git config --local user.name '${{ github.repository_owner }}'
          git config --local user.email '${{ github.repository_owner }}@users.noreply.github.com'
          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-         git a dd -A .
+         git add -A .
          git commit -m "feat: updated profile contrib status"
          git push
 
