@@ -20,9 +20,6 @@ jobs:
          git config --local user.name '${{ github.repository_owner }}'
          git config --local user.email '${{ github.repository_owner }}@users.noreply.github.com'
          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-         echo "${{ secrets.GPG_PRIVATE_KEY }}" | base64 --decode | gpg --import
-         git config --local user.signingkey ${{ secrets.GPG_KEY_ID }}
-         git config --local commit.gpgsign true
          git a dd -A .
          git commit -m "feat: updated profile contrib status"
          git push
