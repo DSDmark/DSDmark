@@ -6,28 +6,6 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
-Indian full-stack developer understanding more about TS system. I've been using computational languages for more than 6 years while studying of computing science.
-</p>
-
-<p align="left">
-  👯 <strong>I’m looking to collaborate on Github</strong>.
-</p>
-
-<p align="left">
-  💬 <strong>Ask me about web Development or any tech-related stuff</strong>..
-</p>
-
-<p align="left">
-🔵 Available for :
-<strong>Team projects, particularly open-source and is MERN stack</strong>.
-</p>
-
-  <p align="left">
-🔵 Artical which is recommmanded for read:
-  <a href="http://visualfractions.com/calculator/modulo/what-is-2-mod-10/">What is 2 mod 10?</a>
-</p>
- 
 <div align="left">
 
 [![user:16517581's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/16517581?theme=monokai&website=true&location=true)](https://github.com/johannchopin/stackoverflow-readme-profile)
