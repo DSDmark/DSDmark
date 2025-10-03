@@ -1,17 +1,32 @@
+
 <div align="Center">
+ 
+#### उद्यमेन हि सिध्यन्ति कार्याणि न मनोरथैः। न हि सुप्तस्य सिंहस्य प्रविशन्ति मुखे मृगा:।।
+#### Transforms every product into a tool of liberation. 
 
+</div>
 
- #### उद्यमेन हि सिध्यन्ति कार्याणि न मनोरथैः। न हि सुप्तस्य सिंहस्य प्रविशन्ति मुखे मृगा:।।
-<br>
+<div>
 
+ ### Hey 👋, I'm Sanskar Sahu
+ 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+[![Github](https://img.shields.io/github/followers/dsdmark?label=Follow&style=social)](https://github.com/dsdmark)
+
+I ❤ Open Source. I love [Vim](https://www.vim.org/) and [Lua](https://www.lua.org/)
+
+* Long-time StackOverflow user&contributor
+* Windows hacker
+
+I'm looking for [GitHub sponsors](https://github.com/sponsors/dsdmark).
 
 <div align="left">
 
 [![user:16517581's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/16517581?theme=monokai&website=true&location=true)](https://github.com/johannchopin/stackoverflow-readme-profile)
 
 </div>
- 
+
 <p align="left">
 
   <a href="#" alt="Gmail">
@@ -31,5 +46,5 @@
 </p>
 </div>
 
-![profile 3d contrib](profile-3d-contrib/profile-night-rainbow.svg)
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="profile 3d contrib" width="400" height="300" />
 
